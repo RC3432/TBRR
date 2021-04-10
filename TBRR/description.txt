@@ -1,0 +1,19 @@
+The Bunnies Revenge Remaster is a mod that gives the bunnies the chance to strike back. This adds multiple bunnies
+with weapons they stole from shops and the arms dealer. They use these weapons against you and get stronger as time goes on, so make sure you progress effectively or they might win this war!
+Current Bunnies:
+Flintock Bunny: A basic infantry of the secret bunny arms organization, they fire single shots that deal small damage, but are mainly there to distract you from other attackers. Has a chance to drop a flintock pistol.
+Copper Warrior Bunny: Weak but slightly more tanky than a flintock bunny, these foot soliders focus at melee attacks. Has a chance to drop copper gear.
+Tin Warrior Bunny: Slightly stronger than a copper warrior bunny, these foot soliders focus at melee attacks. Has a chance to drop tin gear.
+Iron Warrior Bunny: Those found worthy are dubbed as carrot guards, iron clad warriors that focus at melee attacks. Has a chance to drop iron gear.
+Lead Warrior Bunny: Carrot Guards commonly promote to lead warrior bunnies, who strike powerfully and vindictively. Has a chance to drop lead gear.
+Silver Warrior Bunny: Trained knights of the bunny deity, they soak up lots of damage and deal it back at you. Has a chance to drop silver gear.
+Tungsten Warrior Bunny: Also known as Paladians, they soak up tons of damage and deal it back at you. Has a chance to drop tunsten gear.
+Gold Warrior Bunny: A true lord of bunnies, they attack with devastating swiftness. Has a chance to drop gold gear.
+Platinum Warrior Bunny: The best of the chromatics, they are a literal force of nature. Has a chance to drop platinum gear.
+Minishark Bunny: After a few shady purchases with a certain town villager this bunny is 33% gun, 33% bunny, and 33% shark with 1% bullets.
+Boomstick Bunny: While a bunny frame is not built for the recoil, this bunny couldn't care less and goes on rampages.
+Ninja Bunny: Stealthy and Swfit, they can go near invisible and throw shurikens up into the air to avenge the slimey ninja.
+Support Bunny: While not as agressive as the others, it creates beacons of healing energy that heal any monster in a small radius whilest pushing you away.
+Sea Bunny: While uncommon, they swim around oceans and attack anyone who steps foot in the water. The terror doesn't end there as they can walk on land to persue foes.
+Wizard Bunny: A skilled arcanist, they fire a spread of pure chaos into foes before teleporting behind the enemy for a quick kill.
+Gargantuan Bunny: After being bloated with forces of the darkness and light, they became huge and aggressive machines of justice.
